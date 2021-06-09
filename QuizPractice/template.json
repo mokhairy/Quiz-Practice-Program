@@ -1,0 +1,83 @@
+{
+    "authorName":"Daniel Winkler",
+    "programName":"Java Exam Study Tool",
+    "datePublished":"2021-06-08",
+    "questions": 
+    [
+
+        {
+            "question":"Inheritance is one of the pillars of OOP.",
+            "answer1":"True",
+            "answer2":"False",
+            "answer3":null,
+            "answer4":null,
+            "correct":"A"
+        },
+        {
+            "question":"Encapsulation is one of the pillars of OOP.",
+            "answer1":"True",
+            "answer2":"False",
+            "answer3":null,
+            "answer4":null,
+            "correct":"A"
+        },
+        {
+            "question":"Polymorphism is one of the pillars of OOP.",
+            "answer1":"True",
+            "answer2":"False",
+            "answer3":null,
+            "answer4":null,
+            "correct":"A"
+        },
+        {
+            "question":"Interfaces are not a component of Polymorphism.",
+            "answer1":"True",
+            "answer2":"False",
+            "answer3":null,
+            "answer4":null,
+            "correct":"B"
+        },
+        {
+            "question":"Inheritance is one of the pillars of OOP.",
+            "answer1":"True",
+            "answer2":"False",
+            "answer3":null,
+            "answer4":null,
+            "correct":"A"
+        },
+        {
+            "question":"Encapsulation is one of the pillars of OOP.",
+            "answer1":"True",
+            "answer2":"False",
+            "answer3":null,
+            "answer4":null,
+            "correct":"A"
+        },
+        {
+            "question":"Polymorphism is one of the pillars of OOP.",
+            "answer1":"True",
+            "answer2":"False",
+            "answer3":null,
+            "answer4":null,
+            "correct":"A"
+        },
+        {
+            "question":"Interfaces are not a component of Polymorphism.",
+            "answer1":"True",
+            "answer2":"False",
+            "answer3":null,
+            "answer4":null,
+            "correct":"B"
+        }
+
+
+
+
+
+
+
+
+
+
+    ]
+}
