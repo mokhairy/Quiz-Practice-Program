@@ -24,7 +24,10 @@ class QuizCommandLine {
 		File quizFile = new File(filePath);
 		JsonNode node = Json.parseFile(quizFile);
 		QuizPOJO pojo = Json.fromJson(node, QuizPOJO.class);
-		char userChoice;
+		char userChoice = 0;
+		int numQuestions = 0;
+		int numCorrect = 0;
+		double percentage = 0;
 		
 		// Initial heading upon program start
 		System.out.println("Program: " + pojo.getProgramName());
@@ -63,23 +66,10 @@ class QuizCommandLine {
 			
 			System.out.println("\n");
 			userChoice = 0;
-		
+		}
+
+		percentage = ( (double)numCorrect / (double)numQuestions ) * 100.00;
+		System.out.printf("Quiz over. You Scored %d/%d OR %.2f%%", numCorrect, numQuestions, percentage);
 		scnr.close();
 	}//end main
-}//end class
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }//end class
