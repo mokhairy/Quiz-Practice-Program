@@ -1,0 +1,411 @@
+{
+    "authorName"    : "Daniel Winkler",
+    "programName"   : "Java Exam Study Tool",
+    "datePublished" :"2021-06-08",
+    "questions": 
+    [
+
+        {
+            "question": "Inheritance is one of the pillars of OOP.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },
+        {
+            "question": "Encapsulation is one of the pillars of OOP.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },
+        {
+            "question": "Polymorphism is one of the pillars of OOP.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },
+        {
+            "question":"Interfaces are not a component of Polymorphism.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "In which decade did OOP begin?",
+            "answer1" : "2000's",
+            "answer2" : "1990's",
+            "answer3" : "1980's",
+            "answer4" : "1970's",
+            "correct" : "D"
+        },
+        {
+            "question": "If a method implements an interface it must define all of the methods within the inteface to become concrete.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },
+        {
+            "question": "OOP focuses on the _______ instead of the _______.",
+            "answer1" : "tasks, entities",
+            "answer2" : "users, programmers",
+            "answer3" : "entities, tasks",
+            "answer4" : "code, programs",
+            "correct" : "C"
+        },
+        {
+            "question": "Abstraction is: (programming definition)",
+            "answer1" : "Relating to the general, rather than to a specific instance",
+            "answer2" : "the process of writing code for a computer program",
+            "answer3" : "the process of determining the set of features (properties and methods) that a class will have",
+            "answer4" : "the process of writing an OOP",
+            "correct" : "C"
+        },
+        {
+            "question": "Which of the following is a valid method?",
+            "answer1" : "public void dostuff{}",
+            "answer2" : "abstract class myClass()",
+            "answer3" : "public String toString(){ System.out.println(int x); }",
+            "answer4" : "public int getNum{ return num; }",
+            "correct" : "D"
+        },
+        {   
+            "question": "An object is:",
+            "answer1" : "an integer value",
+            "answer2" : "a property",
+            "answer3" : "computer code that occupies space in memory",
+            "answer4" : "a method",
+            "correct" : "C"
+        },
+        {
+            "question": "Objects have two main parts ______ and _______.",
+            "answer1" : "classes, subclasses",
+            "answer2" : "constants, variables",
+            "answer3" : "properties, methods",
+            "answer4" : "public and private methods",
+            "correct" : "C"
+        },
+        {
+            "question": "Everything in Java is an Object:",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "Which of the following are not Objects:",
+            "answer1" : "Strings",
+            "answer2" : "Integers",
+            "answer3" : "Arrays",
+            "answer4" : "Primitives",
+            "correct" : "D"
+        },
+        {
+            "question": "Public, Protected, and Private are all keywords related to which pillar of OOP?",
+            "answer1" : "Abstraction",
+            "answer2" : "Encapsulation",
+            "answer3" : "Inheritance",
+            "answer4" : "Polymorphism",
+            "correct" : "B"
+        },
+        {
+            "question":  "The data held in objects is sometimes referred to as:",
+            "answer1" :  "The properties of the object",
+            "answer2" :  "The state of the object",
+            "answer3" :  "The objects variables",
+            "answer4" :  "The objects methods",
+            "correct" :  "B"
+        },
+        {
+            "question": "An objects methods are referred to as its behaviour",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },
+        {
+            "question": "The behaviour of an object is defined by:",
+            "answer1" : "The variables in the class",
+            "answer2" : "The class name",
+            "answer3" : "The classes methods",
+            "answer4" : "The sub classes methods",
+            "correct" : "C"
+        },
+        {
+            "question": "Basic class diagrams are rectangular, separated vertically into 4 sections",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "Given a class diagram, you should be able to write the code that will define the class",             
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },
+        {
+            
+            "question": "In UML '-' indicates the member is:",
+            "answer1" : "public",
+            "answer2" : "static",
+            "answer3" : "protected",
+            "answer4" : "private",
+            "correct" : "D"
+        },
+        {
+            "question": "In UML '+' indicates the member is:",           
+            "answer1" : "public",
+            "answer2" : "static",
+            "answer3" : "protected",
+            "answer4" : "private",
+            "correct" : "A"
+        },
+        {
+            "question": "In UML '#' indicates the member is:",           
+            "answer1" : "public",
+            "answer2" : "static",
+            "answer3" : "protected",
+            "answer4" : "private",
+            "correct" : "C"
+        },
+        {
+            "question": "If a data member is underlined this indicates that the member is:",           
+            "answer1" : "abstract",
+            "answer2" : "void",
+            "answer3" : "static",
+            "answer4" : "final",
+            "correct" : "C"
+        },
+        {
+            "question": "In UML an italicized method name indicates that the method is:",           
+            "answer1" : "abstract",
+            "answer2" : "void",
+            "answer3" : "static",
+            "answer4" : "final",
+            "correct" : "A"
+        },
+        {
+            "question": "The ________ modifier means that the member is accessible from any class, anywhere",
+            "answer1" : "public",
+            "answer2" : "private",
+            "answer3" : "protected",
+            "answer4" : "abstract",
+            "correct" : "A"
+        },  
+        {
+            "question": "The ________ modifier means that the member is accessible from any class within the same package OR from any sub class of the class.",
+            "answer1" : "public",
+            "answer2" : "private",
+            "answer3" : "protected",
+            "answer4" : "abstract",
+            "correct" : "C"
+        },  
+        {
+            "question": "The ________ modifier means that the member is NOT accesible from any other class, period.",
+            "answer1" : "public",
+            "answer2" : "private",
+            "answer3" : "protected",
+            "answer4" : "abstract",
+            "correct" : "B"
+        },  
+        {
+            "question": "What is the most similar to Java's default level of visibility if no access modifier is specified?",
+            "answer1" : "public",
+            "answer2" : "private",
+            "answer3" : "protected",
+            "answer4" : "abstract",
+            "correct" : "C"
+        },  
+        {
+            "question": "A constructor method differs from all other methods in Java by 3 ways.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },  
+        {
+            "question": "If a programmer does not define a constructor, Java will automatically create one.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },  
+        {
+            "question": "If a programmer defines a constructor other than the default they MUST also define a default one.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        } , 
+        {
+            "question": "A class can inherit attributes and methods from another class is an example of which pillar of OOP?",
+            "answer1" : "Abstraction",
+            "answer2" : "Encapsulation",
+            "answer3" : "Inheritance",
+            "answer4" : "Polymorphism",
+            "correct" : "C"
+        },
+        {
+            "question": "Data members and their values can be hidden from users by using the private keyword is an example of:",
+            "answer1" : "Abstraction",
+            "answer2" : "Encapsulation",
+            "answer3" : "Inheritance",
+            "answer4" : "Polymorphism",
+            "correct" : "B"
+        },
+        {
+            "question": "A methods action depends on what object is calling the method is an example of:",
+            "answer1" : "Abstraction",
+            "answer2" : "Encapsulation",
+            "answer3" : "Inheritance",
+            "answer4" : "Polymorphism",
+            "correct" : "D"
+        },
+        {
+            "question": "What does OOP stand for?",
+            "answer1" : "Objective Observations and Procedures",
+            "answer2" : "Object Oriented Programming",
+            "answer3" : "Otto's Old Pilsner",
+            "answer4" : "None of the above",
+            "correct" : "B"
+        },
+        {
+            "question": "Inheritance in Java is about what methods can be accessed by other packages",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "Inheritance is not a key concept of OOP.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "To use Inheritance you have to build a class hierarchy.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },
+        {
+            "question": "What is Java's procedure for handling inheritance?",
+            "answer1" : "Multiple inheritance",
+            "answer2" : "Single inheritance",
+            "answer3" : "No Inheritance",
+            "answer4" : "None of the above",
+            "correct" : "B"
+        },
+        {
+            "question": "What is single inheritance?",
+            "answer1" : "A sub class can have many parent classes that it derives from.",
+            "answer2" : "A sub class can have only one parent class.",
+            "answer3" : "A parent class can only have one subclass",
+            "answer4" : "You can only have a single instance of inheritance in any program",
+            "correct" : "B"
+        },
+        {
+            "question": "A super class can inherit from its sub classes",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "Sub classes will inherit every member of the parent class",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "Sub classes can't inherit protected methods even if they are in the same package",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "Sub classes can only inherit public and protected members of parent classes",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A"
+        },
+        {
+            "question": "You can create an instance of a class that declares an abstract method, but does not give it a method body",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B"
+        },
+        {
+            "question": "Classes that have abstract methods within them and have defined their behaviour are know as:",
+            "answer1" : "Abstract classes",
+            "answer2" : "Defined classes",
+            "answer3" : "Concrete classes",
+            "answer4" : "Ground level classes",
+            "correct" : "C"
+        },
+        {
+            "question": "A class that extends another class is know as:",
+            "answer1" : "A base class",
+            "answer2" : "A child class",
+            "answer3" : "A sub class",
+            "answer4" : "All of the above",
+            "correct" : "D" 
+        },
+        {
+            "question": "A class that is the parent of a base class is not known as:",
+            "answer1" : "A parent class",
+            "answer2" : "A super class",
+            "answer3" : "The upper class",
+            "answer4" : "None of the above",
+            "correct" : "C" 
+        },
+        {
+            "question": "Private attributes and methods can be inherited by sub-classes.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "B" 
+        },
+        {
+            "question": "Private methods and members can't be accessed directly from outside the class they are defined in.",
+            "answer1" : "True",
+            "answer2" : "False",
+            "answer3" : null,
+            "answer4" : null,
+            "correct" : "A" 
+        }
+
+    ]
+}
